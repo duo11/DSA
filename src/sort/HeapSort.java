@@ -98,7 +98,6 @@ public class HeapSort
         print_array(a);
         for (int i=n-1; i>0; i--)
         {
-
             //swap root and last leaf
             int tmp=a[0];
             a[0]=a[i];
