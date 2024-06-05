@@ -51,7 +51,7 @@ public class ArrayTree {
     }
 
     public int leftMostChild(int node){
-        for(int i = 0; i < p.length;i++){
+        for(int i = node + 1; i < p.length;i++){
             if(p[i] == node){
                 return i;
             }

@@ -5,64 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574d0059-e72a-4cbd-9660-807c4ec140d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/FindDuplicateFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_search_tree/BSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_search_tree/BTSTreeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_search_tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_tree/BTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/binary_tree/BinaryTreeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/expression_tree/ETApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/expression_tree/ETNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut10/expression_tree/ExpressionTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example1/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example1/GVertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example1/GraphBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example2/GALVertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example2/GraphDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example2/SLList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/example2/SLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut11/exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut6/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut6/ArrayListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut6/SLListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut6/SLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut6/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/ArrayStackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/SLLQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/SLLQueueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/SLLStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/SLLStackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut7/StackNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example1/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example1/PostfixEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example1/PostfixEvaluationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example2/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example2/SLLStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example2/StackNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/example2/StackReversing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/excercise1/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/excercise1/BaseConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/excercise1/BaseConversionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/excercise2/InfixToPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut8/excercise2/InfixToPostfixApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut9/example1_exercise1/ArrayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut9/example1_exercise1/ArrayTreeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut9/example2_exercise2/ArrayBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tut9/example2_exercise2/ArrayBinaryTreeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Tut2.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/sort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tut12/exercise1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tut12/exercise1/FindMyCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tut12/exercise1/GVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tut12/exercise2/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut11/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut11/exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tut9/example1_exercise1/ArrayTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tut9/example1_exercise1/ArrayTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,16 +59,37 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.FindMyCoffee.executor&quot;: &quot;Run&quot;,
     &quot;Application.GraphBFS.executor&quot;: &quot;Run&quot;,
     &quot;Application.GraphDFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortestPath.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/duong/Desktop/DSA&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/duong/Desktop/DSA/src/tut12/exercise2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GraphDFS">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\duong\Desktop\DSA\src\tut12\exercise2" />
+      <recent name="C:\Users\duong\Desktop\DSA\src\tut12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShortestPath">
+    <configuration name="FindMyCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tut12.exercise1.FindMyCoffee" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tut12.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GraphBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tut11.GraphBFS" />
       <module name="DSA" />
@@ -143,8 +116,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tut12.exercise2.ShortestPath" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tut12.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestPath" />
+        <item itemvalue="Application.FindMyCoffee" />
         <item itemvalue="Application.GraphDFS" />
         <item itemvalue="Application.GraphBFS" />
       </list>

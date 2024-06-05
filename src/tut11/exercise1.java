@@ -9,16 +9,16 @@ public class exercise1 {
 
     }
 
-    public static void set(GALVertex v, char c){
-        if(v.getLabel() != c){
-            v.setLabel(c);
-            for(int i = 0 ; i < v.getAdjList().getLength();i++){
-                ;
-            }
-            set(v.getAdjList().get(i),c)
-
-        }
-    }
+//    public static void set(GALVertex v, char c){
+//        if(v.getLabel() != c){
+//            v.setLabel(c);
+//            for(int i = 0 ; i < v.getAdjList().getLength();i++){
+//                ;
+//            }
+//            set(v.getAdjList().get(i),c)
+//
+//        }
+//    }
 
 
 

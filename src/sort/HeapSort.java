@@ -29,26 +29,15 @@ public class HeapSort
         return 2*i+2;
     }
 
-    /**
-     * This method implements the TrickleDown algorithm.
-     *
-     * Input: Binary tree A of the size n starting from 0,
-     *        i is the node to be trickle down.
-     * Output: Tree A becomes max heap.
-     *
-     * @author (nxthang)
-     * @version (1.0)
-     */
-
     public static void TrickleDown(int[] a, int n, int i)
     {
         int l=LeftChild(i);
         int r=RightChild(i);
         int maxpos=i;
-        if ((l<n)&&(a[l]>a[maxpos]))//3<10&&16>2
-            maxpos=l;
-        if ((r<n)&&(a[r]>a[maxpos]))//4<10&&8>16
-            maxpos=r;
+        if ( (l<n) && (a[l]>a[maxpos]) )//3<10&&16>2
+            maxpos = l ;
+        if ( (r<n) && ( a[r]>a[maxpos] ) )//4<10&&8>16
+            maxpos = r;
 
         if (maxpos != i)
         {
